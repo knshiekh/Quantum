@@ -1,0 +1,1 @@
+Two csv files and one ipynb file are included. Ensure the csv files are in the correct directory, then run Project_1 in full. There is also a colab project linked in the write up if this is preferred.
